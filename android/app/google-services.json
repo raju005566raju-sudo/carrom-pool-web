@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99246873308",
+    "project_id": "carrom-pool-f2d5e",
+    "storage_bucket": "carrom-pool-f2d5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99246873308:android:7b7a8e5a1d5c2b383cb219",
+        "android_client_info": {
+          "package_name": "Com.raju.carrompool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSWCY71LeLioEuNYBshUF88Y1Zq-u_Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
